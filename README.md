@@ -78,7 +78,7 @@ Get started by downloading the latest app version using the [APK file](/readmeDa
 Made with love by:
 
 - [Zeyad Abdullah](https://github.com/ZeyadAbdullah679)
-- [Ali Alashwall](https://github.com/AliAlashwall)
+- [Ali Gamal](https://github.com/AliAlashwall)
 - [Menna Ibrahim](https://github.com/Menna120)
 - [Zeinab Ahmed](https://github.com/Zeinab979)
 - [Nourhan Ibrahim](https://github.com/3105731) 
